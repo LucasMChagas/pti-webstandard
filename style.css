@@ -28,8 +28,8 @@ footer {
     text-align: center;
 }
 .figure{
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
 }
 .red-color{
     color: red;
@@ -70,6 +70,9 @@ footer {
     border-radius: 8px;
     background: #686868;    
     display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
 }
 .form{
